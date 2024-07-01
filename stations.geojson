@@ -1,0 +1,3983 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.9797,
+                    8.32671
+                ]
+            },
+            "properties": {
+                "name": "Agbopura"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.36386000000002,
+                    5.97316
+                ]
+            },
+            "properties": {
+                "name": "Ahangama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.03764,
+                    6.312661899999999
+                ]
+            },
+            "properties": {
+                "name": "Ahungalla Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.0648913,
+                    6.192056600000001
+                ]
+            },
+            "properties": {
+                "name": "Akurala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.15973,
+                    6.939898599999999
+                ]
+            },
+            "properties": {
+                "name": "Aluth Ambalama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.9080599,
+                    8.2055552
+                ]
+            },
+            "properties": {
+                "name": "Aluth Oya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.00025,
+                    6.432939999999999
+                ]
+            },
+            "properties": {
+                "name": "Aluthgama Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.0549912,
+                    6.2352476999999995
+                ]
+            },
+            "properties": {
+                "name": "Ambalangoda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24609,
+                    7.919
+                ]
+            },
+            "properties": {
+                "name": "Ambanpola Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.8146143,
+                    6.8771336
+                ]
+            },
+            "properties": {
+                "name": "Ambewela Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.82817829999999,
+                    7.703179899999999
+                ]
+            },
+            "properties": {
+                "name": "Anawilundawa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.0469956,
+                    6.2660884
+                ]
+            },
+            "properties": {
+                "name": "Andadola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.10936769999999,
+                    6.853021699999999
+                ]
+            },
+            "properties": {
+                "name": "Angampitiya Sub Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.3992742,
+                    8.3213588
+                ]
+            },
+            "properties": {
+                "name": "Anuradhapura New Town"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.13476419999999,
+                    6.932181
+                ]
+            },
+            "properties": {
+                "name": "Arapanagama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2073635,
+                    6.9546418999999995
+                ]
+            },
+            "properties": {
+                "name": "Avissawella Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.5116101,
+                    8.0043522
+                ]
+            },
+            "properties": {
+                "name": "Avukana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.0596801,
+                    6.9800441
+                ]
+            },
+            "properties": {
+                "name": "Badulla Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.04341749999999,
+                    6.276649099999999
+                ]
+            },
+            "properties": {
+                "name": "Balapitiya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8529574,
+                    6.8936984
+                ]
+            },
+            "properties": {
+                "name": "Bambalapitiya Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.66056999999999,
+                    5.970540000000001
+                ]
+            },
+            "properties": {
+                "name": "Bambaranda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.987606,
+                    6.8289271
+                ]
+            },
+            "properties": {
+                "name": "Bandarawela Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8285002,
+                    7.635406
+                ]
+            },
+            "properties": {
+                "name": "Bangadeniya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.5629846,
+                    7.2681537
+                ]
+            },
+            "properties": {
+                "name": "Barammane Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.87847,
+                    6.92636
+                ]
+            },
+            "properties": {
+                "name": "Baseline Road Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.698769,
+                    7.724485199999999
+                ]
+            },
+            "properties": {
+                "name": "Batticaloa Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.83161,
+                    7.72712
+                ]
+            },
+            "properties": {
+                "name": "Battuluoya Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.73727099999999,
+                    6.042146
+                ]
+            },
+            "properties": {
+                "name": "Beliatta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.99665879999999,
+                    6.422187999999999
+                ]
+            },
+            "properties": {
+                "name": "Bentota"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.9836408,
+                    6.4769632999999995
+                ]
+            },
+            "properties": {
+                "name": "Beruwala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1585782,
+                    9.657150099999999
+                ]
+            },
+            "properties": {
+                "name": "Chavakachcheri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.3055475,
+                    8.6690572
+                ]
+            },
+            "properties": {
+                "name": "Cheddikulam Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.7911128,
+                    7.5755526
+                ]
+            },
+            "properties": {
+                "name": "Chilaw Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.19049919999999,
+                    8.556479999999999
+                ]
+            },
+            "properties": {
+                "name": "China Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.03343129999999,
+                    9.7458374
+                ]
+            },
+            "properties": {
+                "name": "Chunnakam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8845,
+                    6.913349999999999
+                ]
+            },
+            "properties": {
+                "name": "Cotta Road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.0104558,
+                    7.1071528
+                ]
+            },
+            "properties": {
+                "name": "Daraluwa Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.86209749999999,
+                    6.8509059
+                ]
+            },
+            "properties": {
+                "name": "Dehiwala Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.87919,
+                    6.9375
+                ]
+            },
+            "properties": {
+                "name": "Dematagoda Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.06277999999999,
+                    6.90293
+                ]
+            },
+            "properties": {
+                "name": "Demodara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.9591746,
+                    6.801921699999999
+                ]
+            },
+            "properties": {
+                "name": "Diyathalawa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1328558,
+                    6.0982147
+                ]
+            },
+            "properties": {
+                "name": "Dodanduwa Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.4058617,
+                    9.5021831
+                ]
+            },
+            "properties": {
+                "name": "Elephant Pass Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.0471082,
+                    6.8757755
+                ]
+            },
+            "properties": {
+                "name": "Ella"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26119589999999,
+                    9.6638778
+                ]
+            },
+            "properties": {
+                "name": "Eluthumaduwal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.6044138,
+                    7.785586400000001
+                ]
+            },
+            "properties": {
+                "name": "Eravur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.82999679999999,
+                    7.9615551999999985
+                ]
+            },
+            "properties": {
+                "name": "Erukkalampiddy Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.85003019999999,
+                    6.9337010999999995
+                ]
+            },
+            "properties": {
+                "name": "Fort Railway station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.8657479,
+                    8.1377888
+                ]
+            },
+            "properties": {
+                "name": "Gal Oya Junction"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.52987,
+                    6.986619999999999
+                ]
+            },
+            "properties": {
+                "name": "Galboda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27163,
+                    8.00218
+                ]
+            },
+            "properties": {
+                "name": "Galgamuwa Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2143601,
+                    6.0333459
+                ]
+            },
+            "properties": {
+                "name": "Galle Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.0490099,
+                    7.914302500000001
+                ]
+            },
+            "properties": {
+                "name": "Gallella Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.56683,
+                    7.16219
+                ]
+            },
+            "properties": {
+                "name": "Gampola Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1793841,
+                    6.060698899999999
+                ]
+            },
+            "properties": {
+                "name": "Ginthota"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.0328269,
+                    6.8479513
+                ]
+            },
+            "properties": {
+                "name": "Godagama Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.6890494,
+                    6.9571952
+                ]
+            },
+            "properties": {
+                "name": "Great Western"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.3072959,
+                    5.9940517
+                ]
+            },
+            "properties": {
+                "name": "Habaraduwa Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.7695425,
+                    8.057336099999999
+                ]
+            },
+            "properties": {
+                "name": "Habarana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.5974734,
+                    6.8932386
+                ]
+            },
+            "properties": {
+                "name": "Hatton Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.0256505,
+                    6.844250799999999
+                ]
+            },
+            "properties": {
+                "name": "Heel Oya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.99077,
+                    6.458069999999999
+                ]
+            },
+            "properties": {
+                "name": "Hettimulla"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1000845,
+                    6.142173499999999
+                ]
+            },
+            "properties": {
+                "name": "Hikkaduwa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.95151419999999,
+                    8.039690499999999
+                ]
+            },
+            "properties": {
+                "name": "Hingurakgoda Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.004154,
+                    6.8456822
+                ]
+            },
+            "properties": {
+                "name": "Homagama Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.9003887,
+                    6.9876420999999995
+                ]
+            },
+            "properties": {
+                "name": "Hunupitiya Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.8970118,
+                    6.7793841
+                ]
+            },
+            "properties": {
+                "name": "Idalgashinna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.00863729999999,
+                    6.3874976000000006
+                ]
+            },
+            "properties": {
+                "name": "Induruwa Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.02953169999999,
+                    9.7267277
+                ]
+            },
+            "properties": {
+                "name": "Inuvil"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.48065,
+                    8.70928
+                ]
+            },
+            "properties": {
+                "name": "Irataperiyakulam Sub Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.0208,
+                    9.66521
+                ]
+            },
+            "properties": {
+                "name": "Jaffna Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.5207515,
+                    7.2578171
+                ]
+            },
+            "properties": {
+                "name": "Kadugannawa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.0739732,
+                    6.183184799999999
+                ]
+            },
+            "properties": {
+                "name": "Kahawa Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.822728,
+                    7.532859500000001
+                ]
+            },
+            "properties": {
+                "name": "Kakkapalliya Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.5310994,
+                    8.023346600000002
+                ]
+            },
+            "properties": {
+                "name": "Kalawewa Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.55411269999999,
+                    7.896274
+                ]
+            },
+            "properties": {
+                "name": "Kalkudah"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.95427,
+                    6.60124
+                ]
+            },
+            "properties": {
+                "name": "Kalutara North"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.9590274,
+                    6.5841221
+                ]
+            },
+            "properties": {
+                "name": "Kalutara South"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.4957882,
+                    5.943477199999999
+                ]
+            },
+            "properties": {
+                "name": "Kamburugamuwa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.0529554,
+                    6.2501311
+                ]
+            },
+            "properties": {
+                "name": "Kandegoda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.6323582,
+                    7.289563599999998
+                ]
+            },
+            "properties": {
+                "name": "Kandy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.04818999999999,
+                    9.81467
+                ]
+            },
+            "properties": {
+                "name": "Kankasanturai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.00614999999999,
+                    8.356349999999999
+                ]
+            },
+            "properties": {
+                "name": "Kantale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8636116,
+                    8.1308267
+                ]
+            },
+            "properties": {
+                "name": "Karadipuval Train Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.63299119999999,
+                    7.3304594000000005
+                ]
+            },
+            "properties": {
+                "name": "Katugastota Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24013000000001,
+                    6.0326699999999995
+                ]
+            },
+            "properties": {
+                "name": "Katugoda Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.96607,
+                    6.56009
+                ]
+            },
+            "properties": {
+                "name": "Katukurunda Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.59913,
+                    5.96043
+                ]
+            },
+            "properties": {
+                "name": "Kekanadura"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.5814686,
+                    8.0584568
+                ]
+            },
+            "properties": {
+                "name": "Kekirawa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8945133,
+                    6.9610997
+                ]
+            },
+            "properties": {
+                "name": "Kelaniya Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.4065001,
+                    9.3897561
+                ]
+            },
+            "properties": {
+                "name": "Kilinochchi Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.0058612,
+                    6.8298433
+                ]
+            },
+            "properties": {
+                "name": "Kinigama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8829061,
+                    6.8830079
+                ]
+            },
+            "properties": {
+                "name": "Kirillapona Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.043117,
+                    6.861161200000001
+                ]
+            },
+            "properties": {
+                "name": "Kitha Ella"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21982910000001,
+                    9.6813807
+                ]
+            },
+            "properties": {
+                "name": "Kodikamam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.3316665,
+                    5.9859583
+                ]
+            },
+            "properties": {
+                "name": "Koggala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.021131,
+                    9.688276199999999
+                ]
+            },
+            "properties": {
+                "name": "Kokuvil Sub Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8481782,
+                    6.9112629
+                ]
+            },
+            "properties": {
+                "name": "Kollupitiya Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.84958,
+                    6.922949999999999
+                ]
+            },
+            "properties": {
+                "name": "Kompannavidiya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.02463560000001,
+                    9.704184699999999
+                ]
+            },
+            "properties": {
+                "name": "Kondavil"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1373176,
+                    6.9406491
+                ]
+            },
+            "properties": {
+                "name": "Kosgama Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.02946,
+                    6.338439999999999
+                ]
+            },
+            "properties": {
+                "name": "Kosgoda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.85308529999999,
+                    7.462174600000001
+                ]
+            },
+            "properties": {
+                "name": "Kudawew"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.12425999999999,
+                    6.112369999999999
+                ]
+            },
+            "properties": {
+                "name": "Kumarakanda Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.40966999999999,
+                    5.96362
+                ]
+            },
+            "properties": {
+                "name": "Kumbalgama Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.9968506,
+                    7.9882994
+                ]
+            },
+            "properties": {
+                "name": "Lakshauyana Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.87818539999999,
+                    7.147194799999999
+                ]
+            },
+            "properties": {
+                "name": "Liyanagemulla Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.0794449,
+                    6.8390578
+                ]
+            },
+            "properties": {
+                "name": "Liyanwala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8413077,
+                    7.4968729000000005
+                ]
+            },
+            "properties": {
+                "name": "Madamppe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1475684,
+                    8.7757721
+                ]
+            },
+            "properties": {
+                "name": "Madhu Road Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.82101949999999,
+                    7.903040799999999
+                ]
+            },
+            "properties": {
+                "name": "Madurankuliya Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.98140219999999,
+                    6.504800599999999
+                ]
+            },
+            "properties": {
+                "name": "Maggona"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.014101,
+                    6.3642294
+                ]
+            },
+            "properties": {
+                "name": "Maha Induruwa Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.6348687,
+                    7.302299400000001
+                ]
+            },
+            "properties": {
+                "name": "Mahaiyawa Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.92676689999999,
+                    6.8482202
+                ]
+            },
+            "properties": {
+                "name": "Maharagama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27508,
+                    7.82309
+                ]
+            },
+            "properties": {
+                "name": "Maho Junction"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.032381,
+                    9.7629208
+                ]
+            },
+            "properties": {
+                "name": "Mallakam Sub Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8212072,
+                    7.851185999999999
+                ]
+            },
+            "properties": {
+                "name": "Mangala Eliya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.44413469999999,
+                    9.1306452
+                ]
+            },
+            "properties": {
+                "name": "Mankulam Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.82742999999999,
+                    7.6007014999999996
+                ]
+            },
+            "properties": {
+                "name": "Manuwangama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.86511000000002,
+                    6.92946
+                ]
+            },
+            "properties": {
+                "name": "Maradana Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.62482659999999,
+                    7.4680228
+                ]
+            },
+            "properties": {
+                "name": "Matale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.54352,
+                    5.9517999999999995
+                ]
+            },
+            "properties": {
+                "name": "Matara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.03866,
+                    9.7994
+                ]
+            },
+            "properties": {
+                "name": "Maviddapuram Sub Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.43518999999999,
+                    8.47495
+                ]
+            },
+            "properties": {
+                "name": "Medagama Sub Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.45813799999999,
+                    8.5545621
+                ]
+            },
+            "properties": {
+                "name": "Medawachchiya Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.04626999999999,
+                    6.8434099999999995
+                ]
+            },
+            "properties": {
+                "name": "Meegoda Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1865657,
+                    9.672139
+                ]
+            },
+            "properties": {
+                "name": "Meesalai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.3915012,
+                    5.965158799999999
+                ]
+            },
+            "properties": {
+                "name": "Midigama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.4185888,
+                    8.3593406
+                ]
+            },
+            "properties": {
+                "name": "Mihintale Junction Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.5017453,
+                    8.3589425
+                ]
+            },
+            "properties": {
+                "name": "Mihintale Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.47337999999999,
+                    5.956849999999999
+                ]
+            },
+            "properties": {
+                "name": "Mirissa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.160878,
+                    6.9401329
+                ]
+            },
+            "properties": {
+                "name": "Miriswatta, Kosgama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2432,
+                    9.67419
+                ]
+            },
+            "properties": {
+                "name": "Mirusuwil"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.4225244,
+                    7.905911
+                ]
+            },
+            "properties": {
+                "name": "Moragollagama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.86278949999999,
+                    6.8316849
+                ]
+            },
+            "properties": {
+                "name": "Mount Lavinia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.82562349999999,
+                    7.797689200000001
+                ]
+            },
+            "properties": {
+                "name": "Mundal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.40705,
+                    9.304459999999999
+                ]
+            },
+            "properties": {
+                "name": "Murikandy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.0492574,
+                    8.8349488
+                ]
+            },
+            "properties": {
+                "name": "Murunkan Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.314672,
+                    7.7535168
+                ]
+            },
+            "properties": {
+                "name": "Nagollagama Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.74372,
+                    6.942349999999999
+                ]
+            },
+            "properties": {
+                "name": "Nanuoya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.87787999999999,
+                    6.8969499999999995
+                ]
+            },
+            "properties": {
+                "name": "Narahenpita Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8660175,
+                    7.4143224
+                ]
+            },
+            "properties": {
+                "name": "Nattandiya Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.0813895,
+                    9.6617193
+                ]
+            },
+            "properties": {
+                "name": "Navatkuli Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.48709509999999,
+                    7.9811651999999995
+                ]
+            },
+            "properties": {
+                "name": "Negama Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.84189239999999,
+                    7.210421900000001
+                ]
+            },
+            "properties": {
+                "name": "Negombo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8445934,
+                    7.477001
+                ]
+            },
+            "properties": {
+                "name": "Nelumpokuna Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.3621434,
+                    8.6145064
+                ]
+            },
+            "properties": {
+                "name": "Neriyakulam Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8398016,
+                    8.0360366
+                ]
+            },
+            "properties": {
+                "name": "Noor Nagar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.89100230000001,
+                    6.872100700000001
+                ]
+            },
+            "properties": {
+                "name": "Nugegoda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.84310459999999,
+                    6.817632
+                ]
+            },
+            "properties": {
+                "name": "Ohiya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.5011928,
+                    8.8652702
+                ]
+            },
+            "properties": {
+                "name": "Omantai Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.33014299999999,
+                    9.6078587
+                ]
+            },
+            "properties": {
+                "name": "Palai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8328118,
+                    7.9817323
+                ]
+            },
+            "properties": {
+                "name": "Palawi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.71204259999999,
+                    8.0587494
+                ]
+            },
+            "properties": {
+                "name": "Palugaswewa Railway station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.90467,
+                    6.71238
+                ]
+            },
+            "properties": {
+                "name": "Panadura"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.9489139,
+                    6.847192199999999
+                ]
+            },
+            "properties": {
+                "name": "Pannipitiya Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.4071009,
+                    9.4401612
+                ]
+            },
+            "properties": {
+                "name": "Paranthan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.4315922,
+                    8.445062
+                ]
+            },
+            "properties": {
+                "name": "Parasangahawewa Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.6621369,
+                    7.3804368999999985
+                ]
+            },
+            "properties": {
+                "name": "Pattam Paha Sub Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.8306915,
+                    6.855845899999999
+                ]
+            },
+            "properties": {
+                "name": "Pattipola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.9750346,
+                    6.5316038999999995
+                ]
+            },
+            "properties": {
+                "name": "Payagala North Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.97888999999999,
+                    6.52168
+                ]
+            },
+            "properties": {
+                "name": "Payagala South"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.5902036,
+                    7.257452700000001
+                ]
+            },
+            "properties": {
+                "name": "Peradeniya Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.0176146,
+                    7.9736321000000006
+                ]
+            },
+            "properties": {
+                "name": "Perakum Uyana Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8666143,
+                    8.2283739
+                ]
+            },
+            "properties": {
+                "name": "Periyanagavillu Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.55669,
+                    5.95366
+                ]
+            },
+            "properties": {
+                "name": "Piladuwa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.5526215,
+                    7.26689
+                ]
+            },
+            "properties": {
+                "name": "Pilimathalawa Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.11726949999999,
+                    6.8691461
+                ]
+            },
+            "properties": {
+                "name": "Pinnawala Sub Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.0340781,
+                    6.327495
+                ]
+            },
+            "properties": {
+                "name": "Piyagama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.0333351,
+                    7.9301254000000005
+                ]
+            },
+            "properties": {
+                "name": "Polonnaruwa Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.45740839999999,
+                    5.9642428999999995
+                ]
+            },
+            "properties": {
+                "name": "Polwathumodara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.82811,
+                    7.757209999999999
+                ]
+            },
+            "properties": {
+                "name": "Pulichchakulama Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.5223608,
+                    8.9598477
+                ]
+            },
+            "properties": {
+                "name": "Puliyankulam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.3872311,
+                    7.9636603
+                ]
+            },
+            "properties": {
+                "name": "Punanai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.46285999999999,
+                    8.612739999999999
+                ]
+            },
+            "properties": {
+                "name": "Punewa Sub Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.0382649,
+                    9.659315399999999
+                ]
+            },
+            "properties": {
+                "name": "Pungankulam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8378718,
+                    8.0226826
+                ]
+            },
+            "properties": {
+                "name": "Puttalam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1874347,
+                    6.9339767
+                ]
+            },
+            "properties": {
+                "name": "Puwakpitiya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.19299280000001,
+                    6.9381816999999995
+                ]
+            },
+            "properties": {
+                "name": "Puwakpitiya Town"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.92143329999999,
+                    7.0300132
+                ]
+            },
+            "properties": {
+                "name": "Ragama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.41083619999999,
+                    8.344419499999999
+                ]
+            },
+            "properties": {
+                "name": "Railway Station Anuradhapura"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.9576082,
+                    6.7682933
+                ]
+            },
+            "properties": {
+                "name": "Railway Station Haputale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.0911663,
+                    6.8427956
+                ]
+            },
+            "properties": {
+                "name": "Railway Station Padukka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25930579999999,
+                    7.848491800000001
+                ]
+            },
+            "properties": {
+                "name": "Randenigama Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.61809149999999,
+                    7.2786354
+                ]
+            },
+            "properties": {
+                "name": "Randles Hill Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.13997169999999,
+                    6.093286
+                ]
+            },
+            "properties": {
+                "name": "Rathgama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20468939999999,
+                    6.0538935
+                ]
+            },
+            "properties": {
+                "name": "Richmond Hill"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.3394029,
+                    7.9638333
+                ]
+            },
+            "properties": {
+                "name": "Rideethenna Railway station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.4222929,
+                    8.3898916
+                ]
+            },
+            "properties": {
+                "name": "Saliyapura Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1732778,
+                    9.6645044
+                ]
+            },
+            "properties": {
+                "name": "Sangaththanai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.5965547,
+                    7.260023500000001
+                ]
+            },
+            "properties": {
+                "name": "Sarasavi Uyana Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8088932,
+                    7.5582196
+                ]
+            },
+            "properties": {
+                "name": "Sawarana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.84611,
+                    6.93199
+                ]
+            },
+            "properties": {
+                "name": "Secretariat Halt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2777186,
+                    8.0858141
+                ]
+            },
+            "properties": {
+                "name": "Senarathgama Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.18380359999999,
+                    7.921447099999999
+                ]
+            },
+            "properties": {
+                "name": "Sewanapitiya Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.84967929999999,
+                    6.9235754
+                ]
+            },
+            "properties": {
+                "name": "Slave Island Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.37707,
+                    8.29881
+                ]
+            },
+            "properties": {
+                "name": "Sravasthipura Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.6259819,
+                    7.2847351
+                ]
+            },
+            "properties": {
+                "name": "Suduhumpola Train Halt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.6610578,
+                    6.9400593
+                ]
+            },
+            "properties": {
+                "name": "Talawakele Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.28013589999999,
+                    5.9984611999999995
+                ]
+            },
+            "properties": {
+                "name": "Talpe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.09546569999999,
+                    8.4984498
+                ]
+            },
+            "properties": {
+                "name": "Tambalagamuwa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.03514,
+                    9.784939999999999
+                ]
+            },
+            "properties": {
+                "name": "Tellippalai Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.0889963,
+                    6.169107599999999
+                ]
+            },
+            "properties": {
+                "name": "Telwatta Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.3483176,
+                    8.231835499999999
+                ]
+            },
+            "properties": {
+                "name": "Thalawa Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.3038466,
+                    8.1543233
+                ]
+            },
+            "properties": {
+                "name": "Thambuttegama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.4848957,
+                    8.7783345
+                ]
+            },
+            "properties": {
+                "name": "Thandikulam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.10882629999999,
+                    9.657204499999999
+                ]
+            },
+            "properties": {
+                "name": "Thatchchanthoppu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1144585,
+                    6.1222441
+                ]
+            },
+            "properties": {
+                "name": "Thiranagama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2977633,
+                    7.7813631
+                ]
+            },
+            "properties": {
+                "name": "Timbiriyagedara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.9403282,
+                    6.6325335999999995
+                ]
+            },
+            "properties": {
+                "name": "Train Halt 01"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.22615189999999,
+                    8.5844423
+                ]
+            },
+            "properties": {
+                "name": "Trincomalee Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.0421193,
+                    6.931507099999999
+                ]
+            },
+            "properties": {
+                "name": "Uduwara Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2491456,
+                    6.0219615
+                ]
+            },
+            "properties": {
+                "name": "Unawatuna Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.5318128,
+                    7.9102777
+                ]
+            },
+            "properties": {
+                "name": "Valaichchena Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.4936176,
+                    8.7537264
+                ]
+            },
+            "properties": {
+                "name": "Vavuniya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.9285841,
+                    6.6627573
+                ]
+            },
+            "properties": {
+                "name": "Wadduwa Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1270837,
+                    6.901008699999999
+                ]
+            },
+            "properties": {
+                "name": "Waga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.5141908,
+                    5.9454006999999995
+                ]
+            },
+            "properties": {
+                "name": "Walgama Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.89923,
+                    6.975709999999999
+                ]
+            },
+            "properties": {
+                "name": "Wanawasala Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.5260086,
+                    6.961998299999999
+                ]
+            },
+            "properties": {
+                "name": "Watawala Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.68258759999999,
+                    7.3505608
+                ]
+            },
+            "properties": {
+                "name": "Wattegama Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.42963,
+                    5.975639999999999
+                ]
+            },
+            "properties": {
+                "name": "Weligama Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.2504335,
+                    7.947087600000001
+                ]
+            },
+            "properties": {
+                "name": "Welikanda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.85744919999999,
+                    6.8750326
+                ]
+            },
+            "properties": {
+                "name": "Wellawatte"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.69888,
+                    5.9796
+                ]
+            },
+            "properties": {
+                "name": "Wewrukannala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.97384939999999,
+                    7.0746951
+                ]
+            },
+            "properties": {
+                "name": "Yagoda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.9599575,
+                    7.068559199999999
+                ]
+            },
+            "properties": {
+                "name": "Ganemulla"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.9937296,
+                    7.0935464999999995
+                ]
+            },
+            "properties": {
+                "name": "Gampaha Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.94564679999999,
+                    7.0660845
+                ]
+            },
+            "properties": {
+                "name": "Bulugahagoda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.9371954,
+                    7.0550971
+                ]
+            },
+            "properties": {
+                "name": "Batuwatta Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.0104558,
+                    7.1071528
+                ]
+            },
+            "properties": {
+                "name": "Daraluwa Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.93110999999999,
+                    7.047149999999999
+                ]
+            },
+            "properties": {
+                "name": "Walpola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.0204807,
+                    7.122427900000001
+                ]
+            },
+            "properties": {
+                "name": "Bemmulla"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.91236210000001,
+                    7.0380125
+                ]
+            },
+            "properties": {
+                "name": "Peralanda Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.901585,
+                    7.0492992999999995
+                ]
+            },
+            "properties": {
+                "name": "Kandana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.9183961,
+                    7.0166204
+                ]
+            },
+            "properties": {
+                "name": "Horape"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.896065,
+                    7.0629149
+                ]
+            },
+            "properties": {
+                "name": "Kapuwatta Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8919894,
+                    7.0777784
+                ]
+            },
+            "properties": {
+                "name": "Ja-Ela Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.036248,
+                    7.1338319
+                ]
+            },
+            "properties": {
+                "name": "Magalegoda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8909473,
+                    7.0929636
+                ]
+            },
+            "properties": {
+                "name": "Tudella Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8870192,
+                    7.115814899999999
+                ]
+            },
+            "properties": {
+                "name": "Alawathupitiya Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.90687,
+                    7.00034
+                ]
+            },
+            "properties": {
+                "name": "Enderamulla Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8824662,
+                    7.1289400999999994
+                ]
+            },
+            "properties": {
+                "name": "Seeduwa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.9003887,
+                    6.9876420999999995
+                ]
+            },
+            "properties": {
+                "name": "Hunupitiya Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.94564503905593,
+                    7.066083918621785
+                ]
+            },
+            "properties": {
+                "name": "Bulugahagoda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.0471147718009,
+                    7.141142187837504
+                ]
+            },
+            "properties": {
+                "name": "Heendeniya Pattigoda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.12666,
+                    7.242529999999999
+                ]
+            },
+            "properties": {
+                "name": "Mirigama Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1352215,
+                    7.256348399999999
+                ]
+            },
+            "properties": {
+                "name": "Wilwatta Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.118512,
+                    7.2307634
+                ]
+            },
+            "properties": {
+                "name": "Wijayarajadahana Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1531708,
+                    7.256678300000001
+                ]
+            },
+            "properties": {
+                "name": "Botale Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.16932849999999,
+                    7.256103599999999
+                ]
+            },
+            "properties": {
+                "name": "Ambepussa Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.10508999999999,
+                    7.212889999999999
+                ]
+            },
+            "properties": {
+                "name": "Ganegoda Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.09001020000001,
+                    7.198734599999999
+                ]
+            },
+            "properties": {
+                "name": "Pallewela Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.194403,
+                    7.2705440999999995
+                ]
+            },
+            "properties": {
+                "name": "Yaththalgoda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.0744979,
+                    7.1854707
+                ]
+            },
+            "properties": {
+                "name": "Keenawala Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2106113,
+                    7.2731762999999985
+                ]
+            },
+            "properties": {
+                "name": "Bujjomuwa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.06606339999999,
+                    7.167609700000001
+                ]
+            },
+            "properties": {
+                "name": "Wadurawa Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.05864,
+                    7.152810199999999
+                ]
+            },
+            "properties": {
+                "name": "Veyangoda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23859379999999,
+                    7.2933097
+                ]
+            },
+            "properties": {
+                "name": "Alawwa Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.0471163,
+                    7.1411454999999995
+                ]
+            },
+            "properties": {
+                "name": "Heendeniya Pattigoda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.036248,
+                    7.1338319
+                ]
+            },
+            "properties": {
+                "name": "Magalegoda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26908259999999,
+                    7.313848600000001
+                ]
+            },
+            "properties": {
+                "name": "Walakumbura Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.0204807,
+                    7.122427900000001
+                ]
+            },
+            "properties": {
+                "name": "Bemmulla"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.0104558,
+                    7.1071528
+                ]
+            },
+            "properties": {
+                "name": "Daraluwa Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.9937296,
+                    7.0935464999999995
+                ]
+            },
+            "properties": {
+                "name": "Gampaha Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.4546189,
+                    7.2962468
+                ]
+            },
+            "properties": {
+                "name": "Gangoda Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.469414,
+                    7.288627099999999
+                ]
+            },
+            "properties": {
+                "name": "Ihalakotte Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.4402959,
+                    7.316246700000001
+                ]
+            },
+            "properties": {
+                "name": "Yatiwaldeniya Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.4335153,
+                    7.3179559
+                ]
+            },
+            "properties": {
+                "name": "Kadigamuwa Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.4894293,
+                    7.2666393
+                ]
+            },
+            "properties": {
+                "name": "Balana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.5207515,
+                    7.2578171
+                ]
+            },
+            "properties": {
+                "name": "Kadugannawa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.390238,
+                    7.3212983
+                ]
+            },
+            "properties": {
+                "name": "Rambukkana Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.3643465,
+                    7.3184986
+                ]
+            },
+            "properties": {
+                "name": "Yatagama Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.5629846,
+                    7.2681537
+                ]
+            },
+            "properties": {
+                "name": "Barammane Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.34286999999999,
+                    7.32161
+                ]
+            },
+            "properties": {
+                "name": "Tismalpola Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.5902036,
+                    7.257452700000001
+                ]
+            },
+            "properties": {
+                "name": "Peradeniya Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.32521,
+                    7.3285
+                ]
+            },
+            "properties": {
+                "name": "Pannaliya Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.5965547,
+                    7.260023500000001
+                ]
+            },
+            "properties": {
+                "name": "Sarasavi Uyana Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.60264470000001,
+                    7.267369
+                ]
+            },
+            "properties": {
+                "name": "Rajawatta Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.59505399999999,
+                    7.2333431
+                ]
+            },
+            "properties": {
+                "name": "Koshinna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.61809149999999,
+                    7.2786354
+                ]
+            },
+            "properties": {
+                "name": "Randles Hill Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.5986214,
+                    7.213891799999999
+                ]
+            },
+            "properties": {
+                "name": "Gelioya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.30098,
+                    7.331019999999999
+                ]
+            },
+            "properties": {
+                "name": "Polgahawela Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.6259819,
+                    7.2847351
+                ]
+            },
+            "properties": {
+                "name": "Suduhumpola Train Halt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.5350101,
+                    7.0571972
+                ]
+            },
+            "properties": {
+                "name": "Nawalapitiya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.5408283,
+                    7.074166
+                ]
+            },
+            "properties": {
+                "name": "Warakawa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.5311048,
+                    7.0328456
+                ]
+            },
+            "properties": {
+                "name": "Heightenford Platform"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.5526342,
+                    7.0836273
+                ]
+            },
+            "properties": {
+                "name": "Pallegama Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.5456209,
+                    7.0182148
+                ]
+            },
+            "properties": {
+                "name": "Inguruoya Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.5597196,
+                    7.108371399999999
+                ]
+            },
+            "properties": {
+                "name": "Ulapane Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.53943,
+                    6.99431
+                ]
+            },
+            "properties": {
+                "name": "Penrose Platform"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.52987,
+                    6.986619999999999
+                ]
+            },
+            "properties": {
+                "name": "Galboda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.55831309999999,
+                    7.1246339
+                ]
+            },
+            "properties": {
+                "name": "Warakapitiya Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.55928,
+                    7.13319
+                ]
+            },
+            "properties": {
+                "name": "Tembiligala Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.5616283,
+                    7.1451801999999995
+                ]
+            },
+            "properties": {
+                "name": "Wallahagoda Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.5376481,
+                    6.950013299999999
+                ]
+            },
+            "properties": {
+                "name": "Ihala Watawala Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.56683,
+                    7.16219
+                ]
+            },
+            "properties": {
+                "name": "Gampola Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.5733603,
+                    7.168477299999999
+                ]
+            },
+            "properties": {
+                "name": "Kahatapitiya Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.5588818,
+                    6.934819399999999
+                ]
+            },
+            "properties": {
+                "name": "Rozella Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.5930611,
+                    7.1889418
+                ]
+            },
+            "properties": {
+                "name": "Weligalla Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.65287169999999,
+                    6.9689845
+                ]
+            },
+            "properties": {
+                "name": "Watagoda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.60857770000001,
+                    6.9283652
+                ]
+            },
+            "properties": {
+                "name": "Kotagala Railway Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.5986214,
+                    7.213891799999999
+                ]
+            },
+            "properties": {
+                "name": "Gelioya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.71671952785776,
+                    6.944739784243425
+                ]
+            },
+            "properties": {
+                "name": "Radella"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.7524698881318,
+                    6.919493436614849
+                ]
+            },
+            "properties": {
+                "name": "Perakumpura Sub Railway Station"
+            }
+        }
+    ]
+}
